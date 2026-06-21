@@ -52,6 +52,4 @@ This project focuses on analyzing sales data using Python. The dataset was clean
 * Generated business insights from the dataset
 
 ## Conclusion
-his project demonstrates the use of Python for data cleaning, exploratory data analysis (EDA), and data visualization to support business decision-making.
-his project demonstrates the use of Python for data cleaning, exploratory data analysis (EDA), and data visualization to support b
 This project demonstrates the use of Python for data cleaning, exploratory data analysis (EDA), and data visualization to support business decision-making.
